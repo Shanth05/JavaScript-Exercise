@@ -23,3 +23,16 @@ let pi =3.14;
 let circumfarances = 2*pi*r;
 document.getElementById("namer").textContent = `${circumfarances}`;
 }
+
+
+
+/*
+type conversion
+if....else
+for loop
+while loop
+string methods
+strng slicing
+method changning
+logical operators
+*/
