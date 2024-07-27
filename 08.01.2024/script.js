@@ -31,3 +31,4 @@ getFullName("A.","Subiramaniam");
 
 */
 
+document.getElementById("btn").addEventListener("click",getFullName());
